@@ -27,5 +27,7 @@ She / Her
 I'm not just a coder — I'm also a **national-level discus thrower** for Egypt! 🥇💪
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassant2005)](https://github.com/bassant2005/github-readme-stats)
+---
 
 Thanks for stopping by! Let's build something amazing together 🚀
