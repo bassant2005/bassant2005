@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Bassant!
 
-<!--
-**bassant2005/bassant2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! I'm passionate about programming, technology, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- 🧠 Advanced Data Structures and Algorithms
+- 📱 Frontend frameworks and better UI design (HTML/CSS/JS/react)
+- 🐍 Deepening my Python skills, especially for AI
+
+---
+
+### 📫 How to reach me:
+- ✉️ Email: `basant.tareq.2005@gmail.com`
+- 📱 LinkedIn: ([LinkedIn]https://www.linkedin.com/in/bassant-tarek-106a2031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌍 Portfolio: ([Portfolio]https://bassant2005.github.io/portfolio/)
+
+---
+
+### 😄 Pronouns:
+She/Her
+
+---
+
+### ⚡ Fun fact:
+I'm not just a coder — I'm also a **national-level discus thrower** for Egypt! 🥇💪
+
+---
+
+Thanks for stopping by! Let's build something amazing together 🚀
