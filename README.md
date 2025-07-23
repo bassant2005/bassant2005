@@ -13,8 +13,8 @@
 
 ### 📫 How to reach me:
 - ✉️ Email: `basant.tareq.2005@gmail.com`
-- 📱 LinkedIn: ([LinkedIn]https://www.linkedin.com/in/bassant-tarek-106a2031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌍 Portfolio: ([Portfolio]https://bassant2005.github.io/portfolio/)
+- 📱 LinkedIn: [visit me](https://www.linkedin.com/in/bassant-tarek-106a2031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌍 Portfolio: [visit me](https://bassant2005.github.io/portfolio/)
 
 ---
 
