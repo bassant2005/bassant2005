@@ -17,11 +17,6 @@
 
 ---
 
-### 😄 Pronouns:
-She / Her
-
----
-
 ### ⚡ Fun fact:
 I'm not just a coder — I'm also a **national-level discus thrower** for Egypt! 🥇💪
 
