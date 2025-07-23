@@ -43,10 +43,6 @@ I'm not just a coder — I'm also a **national-level discus thrower** for Egypt!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bassant2005&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
 Thanks for stopping by! Let's build something amazing together 🚀
 
 
